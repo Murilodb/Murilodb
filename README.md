@@ -1,7 +1,5 @@
 # Murilo Moreira
 
-**`Database Analyst`**
-
 Me chamo Murilo dos santos Moreira, tenho 21 anos e sou natural da Bahia. tenho o curso técnico em informática. Atualmente, estou cursando Ciẽncias de dados na UFU. 
 
 ---
