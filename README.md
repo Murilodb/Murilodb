@@ -1,14 +1,11 @@
 # Murilo Moreira
 
-Me chamo **Murilo dos Santos Moreira**, tenho 21 anos, sou baiano e atualmente moro em Minas Gerais.
-
-Sou estudante de **Ciência de Dados** no **Instituto de Matematica e estatistica na Faculdade Federal de Uberlandia - (IME-UFU)**, com formação técnica em Informática e atuação voltada para **Engenharia de Dados**, **Cloud Infrastructure** e **Database Platforms**.
+Me chamo **Murilo dos Santos Moreira**, tenho 22 anos, sou baiano e atualmente moro em Minas Gerais.
 
 Atualmente trabalho com **infraestrutura, sustentação de plataforma e administração de bancos de dados**, com foco em ambientes Linux, SQL performance, automação e arquitetura de dados.
 
 Tenho grande interesse por:
 
-- Engenharia de Dados
 - Cloud Computing
 - Banco de Dados e Performance SQL
 - DataOps e automação de pipelines
