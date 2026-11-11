@@ -1,19 +1,17 @@
 # Murilo Moreira
 
-Me chamo **Murilo dos Santos Moreira**, tenho 22 anos, sou baiano e atualmente moro em Minas Gerais.
+Me chamo **Murilo dos Santos Moreira**, tenho 22 anos, sou entusiasta do mundo open-souce.
 
 Atualmente trabalho com **infraestrutura, sustentação de plataforma e administração de bancos de dados**, com foco em ambientes Linux, SQL performance, automação e arquitetura de dados.
 
 Tenho grande interesse por:
 
 - Cloud Computing
-- Banco de Dados e Performance SQL
-- DataOps e automação de pipelines
 - Arquitetura de infraestrutura
 - Sistemas distribuídos
 - Observabilidade e confiabilidade de plataformas
 
-Busco construir soluções escaláveis unindo **dados + cloud + infraestrutura**.
+Busco construir soluções escaláveis unindo **Confiabilidade + cloud + infraestrutura**.
 
 ---
 
