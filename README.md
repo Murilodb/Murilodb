@@ -1,6 +1,6 @@
 # Murilo Moreira
 
-Me chamo **Murilo dos Santos Moreira**, tenho 22 anos, sou entusiasta do mundo open-souce.
+Me chamo **Murilo dos Santos Moreira**, tenho 22 anos, sou entusiasta do mundo open-source.
 
 Atualmente trabalho com **infraestrutura, sustentação de plataforma e administração de bancos de dados**, com foco em ambientes Linux, SQL performance, automação e arquitetura de dados.
 
